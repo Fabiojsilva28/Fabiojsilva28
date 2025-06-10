@@ -27,6 +27,6 @@ Cloud | MultiCloud | DevOps | AWS | Oracle Cloud | Git-Github | Terraform | Ansi
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fabiosilva2805)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiosilva2805/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabio.js1991@gmail.com)
 
