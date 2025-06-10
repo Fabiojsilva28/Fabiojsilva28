@@ -1,6 +1,4 @@
-
 ![1000](https://github.com/user-attachments/assets/2f2cb7a0-97f0-44ab-a31c-cbadd328848f)
-
 
 # Fábio Silva
 
