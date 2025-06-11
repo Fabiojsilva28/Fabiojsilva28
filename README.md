@@ -2,7 +2,7 @@
 
 # Fábio Silva
 
-**`Analista Cloud Jr`**
+🖥️**`Analista Cloud Jr`**
 
 Apaixonado por tecnologia e inovação.
 Profissional de TI com experiência na área de suporte técnico interno e externo.
