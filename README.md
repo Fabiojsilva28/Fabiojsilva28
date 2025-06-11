@@ -53,7 +53,7 @@ https://www.linkedin.com/in/fabiosilva2805/ / fabio.js1991@gmail.com
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabiojsilva28&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Fabiojsilva28&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br" 
   />
 
   
