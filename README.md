@@ -48,3 +48,4 @@ https://www.linkedin.com/in/fabiosilva2805/ / fabio.js1991@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiojsilva28&theme=transparent&bg_color=010612&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=bd79d4&text_color=03fce3&locale=pt-br)
   
+.
