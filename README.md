@@ -46,6 +46,7 @@ https://www.linkedin.com/in/fabiosilva2805/ / fabio.js1991@gmail.com
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
