@@ -17,6 +17,9 @@ Atualmente me especializando com o intuito de atuar como Analista de Infraestrut
    - Certified Developer Associate
    - Certified Cloud Practitioner
    - Certified AI Practitioner
+- Oracle
+   - Oracle Cloud Infrastructure Certified Foundations Associate
+   - Oracle Cloud Infrastructure AI Certified Foundations Associate       
       
 
 ### Ferramentas e Tecnologias
