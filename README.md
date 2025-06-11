@@ -46,14 +46,5 @@ https://www.linkedin.com/in/fabiosilva2805/ / fabio.js1991@gmail.com
 
 ### 📊 Estatísticas
 
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabiojsilva28&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br" 
-  />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiojsilva28&theme=transparent&bg_color=010612&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=bd79d4&text_color=03fce3&locale=pt-br)
   
