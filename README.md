@@ -18,7 +18,7 @@ Atualmente me especializando com o intuito de atuar como Analista de Infraestrut
    - Certified Cloud Practitioner
    - Certified AI Practitioner
       
----
+
 ### Ferramentas e Tecnologias
 
 <p align="left">
